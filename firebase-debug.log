@@ -1,0 +1,21 @@
+[debug] [2021-05-24T21:35:47.038Z] ----------------------------------------------------------------------
+[debug] [2021-05-24T21:35:47.040Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\stehl\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-05-24T21:35:47.040Z] CLI Version:   9.11.0
+[debug] [2021-05-24T21:35:47.040Z] Platform:      win32
+[debug] [2021-05-24T21:35:47.040Z] Node Version:  v12.16.1
+[debug] [2021-05-24T21:35:47.041Z] Time:          Mon May 24 2021 23:35:47 GMT+0200 (GMT+02:00)
+[debug] [2021-05-24T21:35:47.041Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-05-24T21:35:47.046Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-05-24T21:35:47.046Z] > authorizing via signed-in user (stehlinglucas93@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\dev\flutter\projects\sudoku\build\web
+
